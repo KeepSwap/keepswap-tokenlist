@@ -23,11 +23,11 @@
     },
     {
       "name": "Tether",
-      "address": "0xa6ea066bae96432414ac62818e62e2ecaa570de3",
+      "address": "0xa6Ea066Bae96432414ac62818e62E2ECAa570dE3",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 2559,
-      "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xa6ea066bae96432414ac62818e62e2ecaa570de3.png"
+      "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xa6Ea066Bae96432414ac62818e62E2ECAa570dE3.png"
     }
   ]
 }
