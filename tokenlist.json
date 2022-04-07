@@ -28,6 +28,14 @@
       "decimals": 18,
       "chainId": 2559,
       "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xa6Ea066Bae96432414ac62818e62E2ECAa570dE3.png"
+    },
+    {
+      "name": "UFT Token",
+      "address": "0xbf53305973561eC812519a3673cc3d80c48bA377",
+      "symbol": "UFT",
+      "decimals": 18,
+      "chainId": 2559,
+      "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xbf53305973561eC812519a3673cc3d80c48bA377.png"
     }
   ]
 }
