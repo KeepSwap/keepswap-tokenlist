@@ -36,6 +36,14 @@
       "decimals": 18,
       "chainId": 2559,
       "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xbf53305973561eC812519a3673cc3d80c48bA377.png"
+    },
+    {
+      "name": "DKC Token",
+      "address": "0xE3DeC47F976003E4c91E55898197a423F9d17798",
+      "symbol": "DKC",
+      "decimals": 18,
+      "chainId": 2559,
+      "logoURI": "https://keepswap.github.io/keepswap-tokenlist/assets/KTOMAIN/0xE3DeC47F976003E4c91E55898197a423F9d17798.png"
     }
   ]
 }
